@@ -11,7 +11,7 @@
         if (validateEmail(email)) {
             console.log("Valid email address.");
         } else {
-            console.log("Invalid email address.");
+                console.log("Invalid email address.");
         }
     } else {
         console.log("Please enter an email address.");
